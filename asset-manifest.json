@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adnan-ali7/shoppingcart/static/css/main.d4601694.css",
+    "main.js": "/adnan-ali7/shoppingcart/static/js/main.e052b928.js",
+    "static/js/488.188c1470.chunk.js": "/adnan-ali7/shoppingcart/static/js/488.188c1470.chunk.js",
+    "index.html": "/adnan-ali7/shoppingcart/index.html",
+    "main.d4601694.css.map": "/adnan-ali7/shoppingcart/static/css/main.d4601694.css.map",
+    "main.e052b928.js.map": "/adnan-ali7/shoppingcart/static/js/main.e052b928.js.map",
+    "488.188c1470.chunk.js.map": "/adnan-ali7/shoppingcart/static/js/488.188c1470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4601694.css",
+    "static/js/main.e052b928.js"
+  ]
+}
